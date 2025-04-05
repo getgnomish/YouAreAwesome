@@ -14,7 +14,7 @@ struct ContentView: View {
             Image(systemName: "swift")
             .resizable()
                 .scaledToFit()
-                .foregroundStyle(.orange)
+                .foregroundStyle(.indigo)
             Text("You Are Awesome!")
                 .font(.largeTitle)
                 .fontWeight(.heavy)
